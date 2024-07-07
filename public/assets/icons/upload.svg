@@ -1,4 +1,23 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="40" height="40" rx="20" fill="#2D3136"/>
-<path d="M16.6665 23.3333L19.9998 20M19.9998 20L23.3332 23.3333M19.9998 20V27.5M26.6665 23.9524C27.6844 23.1117 28.3332 21.8399 28.3332 20.4167C28.3332 17.8854 26.2811 15.8333 23.7498 15.8333C23.5677 15.8333 23.3974 15.7383 23.3049 15.5814C22.2182 13.7374 20.2119 12.5 17.9165 12.5C14.4647 12.5 11.6665 15.2982 11.6665 18.75C11.6665 20.4718 12.3627 22.0309 13.489 23.1613" stroke="#24AE7C" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2d94c4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.67px;
+      }
+
+      .cls-2 {
+        fill: #2d3136;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-2" d="M20,0h0c11.05,0,20,8.95,20,20h0c0,11.05-8.95,20-20,20h0C8.95,40,0,31.05,0,20h0C0,8.95,8.95,0,20,0Z"/>
+    <path class="cls-1" d="M16.67,23.33l3.33-3.33M20,20l3.33,3.33M20,20v7.5M26.67,23.95c1.02-.84,1.67-2.11,1.67-3.54,0-2.53-2.05-4.58-4.58-4.58-.18,0-.35-.09-.44-.25-1.09-1.84-3.09-3.08-5.39-3.08-3.45,0-6.25,2.8-6.25,6.25,0,1.72.7,3.28,1.82,4.41"/>
+  </g>
 </svg>
