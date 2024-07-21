@@ -10,8 +10,7 @@ const Success = async ({
   searchParams,
 }: SearchParamProps) => {
   const appointmentId = (searchParams?.appointmentId as string) || "";
-  const appointmentData = await getAppointment(appointmentId);
-  const appointment = appointmentData.documents[0];
+  const appointment = await getAppointment(appointmentId);
 
   const doctor = Doctors.find(
     (doctor) => doctor.name === appointment.primaryPhysician

@@ -26,6 +26,7 @@ export interface Patient extends Models.Document {
 
 export interface Appointment extends Models.Document {
   patient: Patient;
+  patientId: number | null;
   schedule: Date;
   status: Status;
   primaryPhysician: string;
